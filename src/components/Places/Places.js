@@ -23,6 +23,10 @@ const styles = StyleSheet.create({
 	}
 })
 
+/**
+ * 
+ * @param {*} props 
+ */
 const Places = (props) => (
     <View style={styles.inputContainer}>
         <TextInput
