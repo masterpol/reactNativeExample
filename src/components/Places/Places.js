@@ -24,7 +24,7 @@ const styles = StyleSheet.create({
 })
 
 /**
- * 
+ * text comment
  * @param {*} props 
  */
 const Places = (props) => (
